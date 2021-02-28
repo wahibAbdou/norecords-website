@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-nsr">
     <header class="header">
       <div class="navbar">
         <img src="~assets/logo-png.png" />
@@ -28,13 +28,13 @@
 <script>
 export default {
   head: {
-    title: 'DEMO SUBMISSIONS - NØSIGNAL RECORDS',
+    title: 'DEMO SUBMISSIONS ~ NØSIGNAL RECORDS',
   },
 }
 </script>
 
 <style>
-.container {
+.container-nsr {
   margin: 0 auto;
   min-height: 100vh;
 }
